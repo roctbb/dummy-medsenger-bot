@@ -1,1 +1,1 @@
-supervisorctl restart agents-dummy
+touch /etc/uwsgi/apps/dummy.ini
